@@ -1,34 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Build apps in 10x speed 🚢
 
-## Getting Started
+Hey builder 👋
+I made this template to allow you to build apps in 10x speed. It's a template that I use for my own projects and I'm sharing it with you. It has a lot of features that I use in my projects and I hope you will find it useful. If you have any questions or suggestions, feel free to open an issue or contact me on Twitter.
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
-
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+- [x] [Next.js](https://nextjs.org/) - ReactJS framework that allows you to create full-stack apps
+- [X] [Capacitor](https://capacitorjs.com/) - Build framework to export your JavaScript app to native apps
+- [X] [Tailwind CSS](https://tailwindcss.com/) - CSS framework for inline-styles (design system)
+- [X] [DaisyUI](https://daisyui.com/) - Tailwind CSS components (I use this for my projects)
+- [X] [PostHog](https://posthog.com/) - Best analytics tool for developers (Better than GA and Mixpanel because it's so easy to use)
+- [] [Prisma](https://www.prisma.io/) - Management library for databases (adding this soon)
+- [] ... more to come
