@@ -10,8 +10,9 @@ I made this template to allow you to build apps in 10x speed. It's a template th
 - [X] [Tailwind CSS](https://tailwindcss.com/) - CSS framework for inline-styles (design system)
 - [X] [DaisyUI](https://daisyui.com/) - Tailwind CSS components (I use this for my projects)
 - [X] [PostHog](https://posthog.com/) - Best analytics tool for developers (Better than GA and Mixpanel because it's so easy to use)
-- [] [Prisma](https://www.prisma.io/) - Management library for databases (adding this soon)
-- [] ... more to come
+- [ ] [Prisma](https://www.prisma.io/) - Management library for databases (adding this soon)
+- [ ] [Stripe](https://stripe.com/) - Payment processing for the internet (adding this soon)
+- [ ] Anything else that I can think of
 
 ## How to use
 
