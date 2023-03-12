@@ -65,3 +65,5 @@ npm run ship android
 If there are any issues with the commands, you can always run the commands manually. Here is the list of commands that you can use:
 
 [Package JSON](package.json)
+
+image: https://i.imgur.com/aTcmo45.png
