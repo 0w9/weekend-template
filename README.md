@@ -12,3 +12,7 @@ I made this template to allow you to build apps in 10x speed. It's a template th
 - [X] [PostHog](https://posthog.com/) - Best analytics tool for developers (Better than GA and Mixpanel because it's so easy to use)
 - [] [Prisma](https://www.prisma.io/) - Management library for databases (adding this soon)
 - [] ... more to come
+
+## How to use
+
+(Adding this)
