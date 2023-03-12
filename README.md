@@ -66,4 +66,4 @@ If there are any issues with the commands, you can always run the commands manua
 
 [Package JSON](package.json)
 
-image: https://i.imgur.com/aTcmo45.png
+[!Screenshot of the webapp template and the iOS simulator](https://i.imgur.com/aTcmo45.png)
